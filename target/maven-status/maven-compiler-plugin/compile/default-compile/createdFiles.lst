@@ -1,0 +1,17 @@
+com\example\mlopsapi\exceptions\WorkspaceNotEmptyException.class
+com\example\mlopsapi\exceptions\GlobalExceptionMapper.class
+com\example\mlopsapi\MyApplication.class
+com\example\mlopsapi\resources\EvaluationMetricResource.class
+com\example\mlopsapi\exceptions\LinkedWorkspaceNotFoundExceptionMapper.class
+com\example\mlopsapi\filters\LoggingFilter.class
+com\example\mlopsapi\models\EvaluationMetric.class
+com\example\mlopsapi\resources\WorkspaceResource.class
+com\example\mlopsapi\models\ErrorMessage.class
+com\example\mlopsapi\DiscoveryResource.class
+com\example\mlopsapi\resources\ModelResource.class
+com\example\mlopsapi\exceptions\ModelDeprecatedExceptionMapper.class
+com\example\mlopsapi\models\MachineLearningModel.class
+com\example\mlopsapi\exceptions\ModelDeprecatedException.class
+com\example\mlopsapi\models\MLWorkspace.class
+com\example\mlopsapi\exceptions\LinkedWorkspaceNotFoundException.class
+com\example\mlopsapi\exceptions\WorkspaceNotEmptyExceptionMapper.class
